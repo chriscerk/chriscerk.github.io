@@ -1,0 +1,57 @@
+body {
+    font-family: 'Lato', Century Gothic, sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 0%;
+    margin-bottom: 3%;
+    color: #3a3a3a;
+}
+
+ul {
+    list-style-type: none;
+    white-space: nowrap;
+    padding-left: 0;
+    word-spacing: 5em;
+}
+
+p {
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 125%;
+    line-height: 2em;
+    max-width: 500px;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    color: #777777;
+}
+
+.chris-face {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.contact {
+    display: inline-block;
+}
+
+a:hover {
+    color: blue;
+}
+
+h1 {
+    font-family: 'Roboto', Garamond;
+    font: 100 3em 'Roboto';
+}
